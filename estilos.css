@@ -1,0 +1,38 @@
+.imagen1{
+      height: 200px;
+      width: 200px;}
+     .imagen2{
+      height: 75px;
+      width: 75px;}
+      .imagen3{
+      height: 75px;
+      width: 105px;}
+      /* unvisited link */
+a:link {
+  color: #6666ff;
+}
+
+/* visited link */
+a:visited {
+  color: #008040;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: #ff9900;
+}
+ 
+ body{
+ 	background-image: url("snow.webp") ;
+ }
+ table{
+	text-align: center;
+	background-color: #99ccff;
+	opacity: 0.50;
+	width: 70%
+}
